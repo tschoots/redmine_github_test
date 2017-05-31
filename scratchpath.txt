@@ -1,0 +1,8 @@
+https://github.com/koppen/redmine_github_hook
+http://www.redmine.org/projects/redmine/wiki/HowTo_keep_in_sync_your_git_repository_for_redmine
+https://help.github.com/articles/error-permission-denied-publickey/
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+http://www.redmine.org/projects/redmine/wiki/Plugins
+https://github.com/koppen/redmine_github_hook
+https://help.github.com/articles/setting-your-email-in-git/
